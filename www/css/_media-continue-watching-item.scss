@@ -1,0 +1,41 @@
+.media-continue-watching-item{
+
+  .media-item-inner{
+    background-size: cover;
+    background-position: center;
+  }
+
+  .continue-watching-info{
+    @include align-self(center);
+    i{
+      font-size: 30px;
+    }
+  }
+}
+
+
+.media-progress-wrapper{
+
+  .progress-time{
+    font-size: 80%;
+    opacity: 0.7;
+  }
+
+  .progress-info{
+    font-weight: bold;
+    line-height: 1.2em;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 165px;
+  }
+  .media-progress{
+    height: 5px;
+    background-color: #333;
+  }
+
+  .progress-inner{
+    height: 5px;
+    background-color: $primary;
+  }
+}

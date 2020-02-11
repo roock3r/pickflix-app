@@ -1,0 +1,15 @@
+{
+  "name": "streama",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic1",
+  "pro_id": "d4060c17",
+  "watchPatterns": [
+    "scss/**/*",
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ],
+  "id": "d4060c17"
+}
