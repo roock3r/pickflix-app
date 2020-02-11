@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="dularion.streama" version="0.3.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Streama</name>
-    <description>Connect to Streama backend and enjoy</description>
-    <author email="dularion@gmail.com" href="http://dularion.com/">Antonia Engfors (dularion)</author>
+    <name>Pickflix</name>
+    <description>Connect to pickflix backend and enjoy</description>
+    <author email="chrissilva9420@gmail.com" href="http://silvatech.org/">Cristian Silva</author>
     <content src="index.html" />
     <access origin="*" />
     <allow-navigation href="*" />
